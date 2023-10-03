@@ -1,0 +1,3 @@
+-Sign up functionality
+-Log out functionality
+-Lon in functionality 
