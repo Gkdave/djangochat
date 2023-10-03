@@ -1,3 +1,8 @@
 -Done Sign up functionality
 -Done Log out functionality
--Lon in functionality 
+-Done Lon in functionality 
+-Done Create app for rooms
+-Done Create superuser
+-Done Rooms detail views
+-Creating a consumer
+-Joining a chat 
