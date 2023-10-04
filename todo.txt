@@ -4,5 +4,9 @@
 -Done Create app for rooms
 -Done Create superuser
 -Done Rooms detail views
--Creating a consumer
--Joining a chat 
+-Done Creating a consumer
+-Done Joining a chat 
+-Sending messages
+-Storing messages
+-Scrolling to the bottom 
+
